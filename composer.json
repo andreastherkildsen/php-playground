@@ -1,0 +1,15 @@
+{
+    "name": "andreas/php-playground",
+    "description": "php playground",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andreas",
+            "email": "andrhtx@gmail.com"
+        }
+    ],
+    "require": {
+        "nette/robot-loader": "^3.1"
+    }
+}
