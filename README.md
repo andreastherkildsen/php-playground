@@ -1,4 +1,5 @@
-# PHP Playground - Todo 
+# php-playground
+A playground where i develop ideas, patterns or a bunch of random stuff i think off when i cant sleep. 
 
 ## Abstract
 The main objective with the project was to playaround with a mixture of
